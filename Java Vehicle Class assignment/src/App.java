@@ -25,7 +25,7 @@ public class App {
         Bike KianasBike = new Bike("Mountain bike", "Whyte 901", 2, "30km/hr ", " ");
        // KianasBike.break();
         KianasBike.accelerate();
-        KianasBike.brake();
+        KianasBike.break();
     }
 }
 
