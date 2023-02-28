@@ -21,7 +21,7 @@ public class Bike {
     }
 
 
-    public void brake() {
+    public void break() {
         System.out.println("My" + " " + make + " " + model + " has several brakes which r: TRP Slate Evo,  4-piston, sintered metal pads,  180mm rotors. ");
     }
 }
